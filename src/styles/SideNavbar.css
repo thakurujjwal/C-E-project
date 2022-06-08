@@ -1,0 +1,37 @@
+.main{
+  display: flex;
+  height:100vh;
+ width: 100vw;
+
+}
+
+
+.sideNavbar{
+  height:100vh;
+  /* width: 91px; */
+  border-radius: 2px;
+  background: #FBFBFB;
+  box-shadow: 0px 9px 57px rgba(0, 0, 0, 0.07);
+}
+
+.sideNavbar-logo{
+  height: 62px;
+width: 62px;
+background: linear-gradient(0deg, #C0ECDC -44.23%, #113936 27.88%);
+border-radius: 100%;
+color: #FFFFFF;
+text-align: center;
+margin-bottom: 2rem;
+}
+
+.sideNavbar-logo p{
+padding-top: 1rem;
+}
+.sideNavbar-item{
+  margin-top: 2rem;
+}
+.sideNavbar-item a{
+  color: #717579;
+border-radius: 62px;
+
+}
